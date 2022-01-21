@@ -1,0 +1,32 @@
+body {
+  font: 20px, Arial, sans-serif;
+}
+
+.navbar {
+  background-color: rgb(128, 240, 184);
+}
+
+.quem-somos {
+  background-color: rgb(143, 143, 207);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: whitesmoke;
+}
+.quem-somos h3 {
+  padding-bottom: 20px;
+}
+
+.quem-somos h4 {
+  padding-top: 20px;
+}
+
+.quem-somos u {
+  color: rgb(128, 240, 184);
+}
+
+.parceiros {
+  background-color: rgb(37, 117, 155);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: whitesmoke;
+}
