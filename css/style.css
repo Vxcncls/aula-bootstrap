@@ -3,7 +3,11 @@ body {
 }
 
 .navbar {
-  background-color: rgb(128, 240, 184);
+  background-color: #69c999;
+}
+.nav-item {
+  font-weight: bold;
+  font-size: 1rem;
 }
 
 .quem-somos {
@@ -29,4 +33,13 @@ body {
   padding-top: 50px;
   padding-bottom: 50px;
   color: whitesmoke;
+}
+
+.margin {
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+.bg-footer {
+  background-color: black;
+  color: white;
 }
