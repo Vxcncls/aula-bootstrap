@@ -43,3 +43,12 @@ body {
   background-color: black;
   color: white;
 }
+#carousel-fotos {
+  background-color: cadetblue;
+  text-align: center;
+}
+.carousel-inner img {
+  padding-bottom: 40px;
+  width: 90%;
+  height: 90%;
+}
