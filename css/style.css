@@ -46,9 +46,9 @@ body {
 #carousel-fotos {
   background-color: cadetblue;
   text-align: center;
+  padding-top: 10px;
 }
+
 .carousel-inner img {
   padding-bottom: 40px;
-  width: 90%;
-  height: 90%;
 }
